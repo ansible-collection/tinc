@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: "your name"
-  description: "your description"
-  company: "your company (optional)"
+  author: "Vyacheslav Anzhiganov"
+  description: "Tinc remove"
+  #company: "your company (optional)"
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
@@ -36,10 +36,12 @@ galaxy_info:
   # To view available platforms and versions (or releases), visit:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
-  # platforms:
-  # - name: Fedora
-  #   versions:
-  #   - all
+  platforms:
+  - name: Fedora
+    versions:
+    - all
+  - name: Debian
+    - all
   #   - 25
   # - name: SomePlatform
   #   versions:
