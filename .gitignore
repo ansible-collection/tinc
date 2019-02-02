@@ -1,4 +1,1 @@
 fetch
-*.retry
-*/__pycache__
-*.pyc
