@@ -1,5 +1,4 @@
 ---
-
 - name: restart tinc
   service: >
     name=tinc
