@@ -1,8 +1,8 @@
 ---
-dependencies: []
+#dependencies: []
 
 galaxy_info:
-  author: "vanzhiganov"
+  author: "vyacheslav anzhiganov"
   #description: "TINC for RHEL/CentOS and Debian/Ubuntu."
   company: "Stack Web Services, LLC"
   license: "BSD"
@@ -18,12 +18,6 @@ galaxy_info:
     - name: Debian
       versions:
         - all
-#    - name: Archlinux
-#      versions:
-#        - all
   galaxy_tags:
     - tinc
     - vpn
-#    - mariadb
-#    - db
-#    - sql
