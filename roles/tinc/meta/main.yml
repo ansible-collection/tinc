@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: "vanzhiganov"
-  description: "TINC for RHEL/CentOS and Debian/Ubuntu."
+  #description: "TINC for RHEL/CentOS and Debian/Ubuntu."
   company: "Stack Web Services, LLC"
   license: "BSD"
   min_ansible_version: 2.4
